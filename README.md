@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Carlos
 
-<!--
-**carlosnetin/carlosnetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Aspirante à carreira em **Desenvolvimento de Software**  
+🌐 Foco em **Desenvolvimento Web**
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia, inovação e resolução de problemas através da programação. No meu GitHub, compartilho meus estudos, projetos pessoais e aprendizados ao longo da jornada como futuro desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias que estou aprendendo ou utilizando
+
+- HTML5, CSS3, JavaScript
+- Git & GitHub
+- SQL
+- React.js (em aprendizado)
+- Node.js (em aprendizado)
+- Figma (para prototipagem)
+
+---
+
+## 📚 Atualmente estudando
+
+- Lógica de Programação Avançada
+- Estrutura de Dados
+- Desenvolvimento Front-end com React
+- Boas práticas com Git
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar um desenvolvedor web completo
+- Contribuir com projetos open source
+- Conseguir minha primeira oportunidade como **Dev Júnior**
+
+---
+
+## 📫 Como me encontrar
+
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/carlosnetin](https://www.linkedin.com/in/carlos-roberto-catarino-neto-863410210/))
+- 📧 Email: carlosrcnetodev00@gmail.com
+
+---
+
+🧠 *"A melhor maneira de prever o futuro é criá-lo."* — Peter Drucker

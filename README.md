@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas através da
 
 ## 📫 Como me encontrar
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/carlosnetin](https://www.linkedin.com/in/carlos-roberto-catarino-neto-863410210/))
+- 🔗 [LinkedIn – Carlos Roberto Catarino Neto](https://www.linkedin.com/in/carlos-roberto-catarino-neto-863410210/)
 - 📧 Email: carlosrcnetodev00@gmail.com
 
 ---
